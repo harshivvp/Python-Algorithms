@@ -15,5 +15,6 @@ def rec_coin(target,coins):
             if num_of_coins < min_coins:
                 min_coins = num_of_coins
 
-
     return min_coins
+
+print(rec_coin(100,[1,5,10]))
