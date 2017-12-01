@@ -11,21 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Recursive_Coin_Change.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursive_Coin_Change.py">
+      <file leaf-file-name="Fibonacci_Seq_Dyn.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Recursion-Algorithms/Fibonacci_Seq_Dyn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dynam_Recursive_Coin_Change.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dynam_Recursive_Coin_Change.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,6 +49,10 @@
         <option value="$PROJECT_DIR$/Factorials_W_Memoization.py" />
         <option value="$PROJECT_DIR$/Recursive_Coin_Change.py" />
         <option value="$PROJECT_DIR$/Dynam_Recursive_Coin_Change.py" />
+        <option value="$PROJECT_DIR$/Recursive_Fibonacci_Seq.py" />
+        <option value="$PROJECT_DIR$/Recursion-Algorithms/Recursive_Fibonacci_Seq.py" />
+        <option value="$PROJECT_DIR$/Recursion-Algorithms/Fibonacci_Seq_Iterative.py" />
+        <option value="$PROJECT_DIR$/Recursion-Algorithms/Fibonacci_Seq_Dyn.py" />
       </list>
     </option>
   </component>
@@ -91,6 +85,11 @@
               <item name="Python-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion-Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -114,25 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dynam_Recursive_Coin_Change">
-    <configuration name="Binary_Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Heap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Fibonacci_Seq_Dyn">
     <configuration name="Dynam_Recursive_Coin_Change" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,37 +132,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Factorials_W_Memoization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Fibonacci_Seq_Dyn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion-Algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Factorials_W_Memoization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion-Algorithms/Fibonacci_Seq_Dyn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Nodes_References_BTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Fibonacci_Seq_Iterative" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion-Algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nodes_References_BTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion-Algorithms/Fibonacci_Seq_Iterative.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,20 +186,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Recursive_Fibonacci_Seq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion-Algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-Algorithms" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion-Algorithms/Recursive_Fibonacci_Seq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Nodes_References_BTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Binary_Heap" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Factorials_W_Memoization" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Recursive_Coin_Change" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Dynam_Recursive_Coin_Change" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Recursive_Coin_Change" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Dynam_Recursive_Coin_Change" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Recursive_Fibonacci_Seq" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Fibonacci_Seq_Iterative" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Fibonacci_Seq_Dyn" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Dynam_Recursive_Coin_Change" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Recursive_Coin_Change" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Factorials_W_Memoization" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Binary_Heap" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Nodes_References_BTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Fibonacci_Seq_Dyn" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Fibonacci_Seq_Iterative" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Recursive_Fibonacci_Seq" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Dynam_Recursive_Coin_Change" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Recursive_Coin_Change" />
       </list>
     </recent_temporary>
   </component>
@@ -462,8 +461,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynam_Recursive_Coin_Change.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="239">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursive_Fibonacci_Seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion-Algorithms/Recursive_Fibonacci_Seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion-Algorithms/Fibonacci_Seq_Iterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion-Algorithms/Fibonacci_Seq_Dyn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
